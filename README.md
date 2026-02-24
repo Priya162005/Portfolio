@@ -4,7 +4,6 @@
 
 A responsive **HTML/CSS/JavaScript portfolio website** showcasing Priyadharshini’s resume, projects, skills, and contact information. Designed with a clean, minimalist UI to highlight academic achievements, technical expertise, and professional experience.
 
----
 
 ## ✨ Features
 
@@ -19,8 +18,6 @@ A responsive **HTML/CSS/JavaScript portfolio website** showcasing Priyadharshini
 - **Contact**: Email form + social links (GitHub, LinkedIn, Email).  
 - **Footer**: Minimalist copyright section.  
 
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript  
@@ -28,7 +25,6 @@ A responsive **HTML/CSS/JavaScript portfolio website** showcasing Priyadharshini
 - **Deployment**: GitHub Pages / Netlify / Vercel  
 - **Version Control**: Git & GitHub  
 
----
 
 ## 📂 Project Structure
 
@@ -40,8 +36,6 @@ portfolio/
 ├── assets/            # Images, icons, resume PDF
 └── README.md          # Project documentation
 ```
-
----
 
 ## ⚡ Installation & Setup
 
@@ -56,8 +50,6 @@ portfolio/
    start index.html   # Windows
    open index.html    # macOS
    ```
-
----
 
 ## 🌐 Deployment
 
@@ -78,7 +70,6 @@ portfolio/
 - Resume PDF stored in `/assets/resume.pdf`  
 - Linked in Resume section with “Download Resume” button  
 
----
 
 ## 📬 Contact
 
@@ -86,15 +77,11 @@ portfolio/
 - **LinkedIn**: linkedin.com/in/priyadharshini-d-22750a2a5  
 - **GitHub**: github.com/Priya162005  
 
----
-
 ## 🏆 Achievements
 
 - Published research at **IConIC 2025**  
 - National-level certifications (Oracle, Infosys, NPTEL, NASSCOM)  
 - Hackathon participation (IEEE, Smart India Hackathon)  
-
----
 
 ## 📌 License
 
