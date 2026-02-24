@@ -59,11 +59,6 @@ portfolio/
 3. Your portfolio will be live at:  
    `https://Priya162005.github.io/portfolio`
 
-### Netlify / Vercel
-1. Import repository.  
-2. Deploy → Your portfolio is live!  
-
----
 
 ## 📄 Resume Integration
 
