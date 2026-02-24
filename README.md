@@ -100,3 +100,12 @@ portfolio/
 
 This project is licensed under the MIT License – feel free to use and adapt.  
 
+# 🚀 Live Deployment
+
+This project is deployed and publicly accessible.
+
+🌍 **Visit Here:**  
+https://priya162005.github.io/Portfolio/
+
+Feel free to explore the application and its features.
+
